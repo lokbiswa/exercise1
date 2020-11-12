@@ -1,10 +1,8 @@
-*{
-    margin: 0;
-    padding: 5px;
-    text-align:center;
+.container{
+    max-width:100%
 }
 .col1{
-    background-color: lightpink;
+    background-color: rgb(231, 183, 190);
 }
 .col2{
     background-color:rgb(202, 242, 255);
@@ -21,6 +19,9 @@
 .col6{
     background-color: skyblue;
 }
-.col-xl-12, .col-lg-4, .col-lg-12, .col-sm-6{
-    margin:0 auto 0 auto;
+/* .col-xl-12, .col-lg-4, .col-lg-12, .col-sm-6{
+   margin:0;
+} */
+.jumbotron-fluid{
+    background-color:orange;
 }
