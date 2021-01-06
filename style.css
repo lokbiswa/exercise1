@@ -1,5 +1,6 @@
 .container{
-    max-width:100%
+    max-width:100%;
+    max-height: 100vh;
 }
 .col1{
     background-color: rgb(231, 183, 190);
@@ -24,4 +25,8 @@
 } */
 .jumbotron-fluid{
     background-color:orange;
+    height:85vh;
+}
+img{
+    height:85vh;
 }
