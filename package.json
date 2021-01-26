@@ -1,0 +1,24 @@
+{
+  "name": "exercise1",
+  "version": "1.0.0",
+  "description": "Practicing Bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokbiswa/exercise1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokbiswa/exercise1/issues"
+  },
+  "homepage": "https://github.com/lokbiswa/exercise1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jshint": "^2.12.0",
+    "mongoose": "^5.11.13"
+  }
+}
